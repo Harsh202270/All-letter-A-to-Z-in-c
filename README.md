@@ -58,12 +58,13 @@ This project helps in understanding:
 ## 🧪 Sample Output
 Example for letter **F**:
 111111
-1 1
-1 1
-1 1
-111111
-1 1
-1 1
+1
+1
+11111
+1
+1
+1
+
 
 ---
 
