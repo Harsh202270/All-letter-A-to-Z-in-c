@@ -64,6 +64,10 @@ Example for letter **F**:
 1
 1
 1
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3a01e7dd4cf225730ed4fd307a9fc3a535efde23
 
 ---
 
