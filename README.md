@@ -56,7 +56,7 @@ This project helps in understanding:
 ---
 
 ## 🧪 Sample Output
-Example for letter **F**:
+Example for letter **F**:  
 111111  
 1  
 1  
