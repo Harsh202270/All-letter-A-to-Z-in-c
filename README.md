@@ -63,7 +63,7 @@ Example for letter **F**:
 11111  
 1  
 1  
-1
+1  
 <<<<<<< HEAD
 =======
 
